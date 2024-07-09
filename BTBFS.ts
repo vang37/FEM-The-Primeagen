@@ -1,3 +1,5 @@
+//Prime writes this commented out code first, then revises and comes up with lines 25 and beyond..
+//
 //export default function bfs(head: BinaryNode<number>, needle: number): boolean {
 //
 //    const q = [head];
